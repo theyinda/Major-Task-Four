@@ -57,6 +57,11 @@ body {
     color: #ffe;
     margin: 10px 20px 5px 90px;
   }
+  a:hover {
+    /* background-color: #000; */
+    color: #000;
+   
+}
   
   .skate{
     width: 15rem;
@@ -94,8 +99,14 @@ body {
     border-style: none;
     margin: 5px 0 0 15px;
   }
+  .btn:hover {
+    background-color: #fff;
+    color: white;
+   
+}
   .b{
-    background-color: #2ca7cc; 
+    /* background-color: #2ca7cc;  */
+    background-color: #0392BF;  
   }
   .p{
     background-color:#ED48BA;   
@@ -123,6 +134,11 @@ body {
     background-color:#ED48BA;
     color: #fff;
   }
+  .order:hover {
+    background-color: #000;
+    color: white;
+   
+}
 
   @media (max-width: 992px) {
     .order{
