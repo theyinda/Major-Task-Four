@@ -165,6 +165,9 @@ body {
       margin: 0% 28%;
       text-align: center;
     }
+    .star{
+      text-align: center;
+    }
   }
 
   @media (max-width: 348px) {
